@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Learning Reference
 
-https://www.youtube.com/watch?v=NVnFWzVEBMA&list=PLgzczcvIi04PRf2h4ofMfNWP69dmBfXNr
+See [Vue Fundamentals in Myanmar](https://www.youtube.com/watch?v=NVnFWzVEBMA&list=PLgzczcvIi04PRf2h4ofMfNWP69dmBfXNr).
